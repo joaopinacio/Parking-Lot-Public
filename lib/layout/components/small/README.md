@@ -1,0 +1,1 @@
+# Small Components (example in default folder)
